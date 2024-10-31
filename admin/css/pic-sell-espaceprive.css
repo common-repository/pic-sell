@@ -1,0 +1,109 @@
+.clear {
+    clear: both;
+}
+#pic_overlay{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.60);
+    top: 0;
+    left: 0;
+    z-index: 999998;
+}
+.ui-dialog.dialog_before_publish {
+    width: 70% !important;
+    z-index: 999999;
+}
+.dynamic_form {
+    
+}
+
+.dynamic_form .ps_add_tr, .dynamic_form .ps_add_multiple_media {
+    margin-left: calc(100% - 6px);
+    transform: translateX(-100%);
+    margin-top: 6px;
+}
+
+.dynamic_form input[type=text] {
+    width: 100%;
+}
+
+.dynamic_form textarea {
+    width: 100%;
+}
+
+.dynamic_form label {
+    font-weight: bold;
+    font-size: 14px;
+    display: block;
+    background-color: #59a8e7;
+    padding: 6px;
+    margin: 6px;
+}
+
+.dynamic_form table#field_wrap {
+    
+    padding: 6px;
+    border-radius: 5px;
+    width: 100%;
+    display: none;
+}
+
+.dynamic_form table#field_wrap td {
+    border: 1px solid #999;
+    margin: 6px;
+    padding: 6px;
+}
+
+.dynamic_form table#field_wrap td.ps_classement {
+    border-left: solid 10px #b7b7b7 !important;
+    cursor: move;
+}
+.dynamic_form table#field_wrap td.ps_classement span.ps_classement_span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.dynamic_form table#field_wrap tr:nth-child(even) {
+    background-color: #eee;
+}
+
+.dynamic_form table#field_wrap td img.ps_display_image {
+    max-height: 70px;
+}
+
+.dynamic_form table#field_wrap .ps-upload-progress{
+    display: none;
+    background: #a7a7a7;
+}
+.dynamic_form table#field_wrap .ps-upload-progress .uploading{
+    width: 0%;
+    padding: 0 6px;
+    margin-left: -6px;
+    height: 25px;
+    line-height: 24px;
+    overflow: visible;
+    background-color: rgb(34, 124, 34);
+    color: #fff;
+    display: none;
+}
+.dynamic_form table#field_wrap .ps-upload-progress .finished{
+    width: 100%;
+    padding: 0 6px;
+    margin-left: -6px;
+    height: 25px;
+    line-height: 24px;
+    background-color: rgb(25, 109, 25);
+    color: #fff;
+    display: none;
+}
+
+.dynamic_form #wrap-emails-clients input[type='text'] {
+    width: 250px;
+    margin: 6px 0;
+}
+
+.dynamic_form #wrap-emails-clients {
+    display: flex;
+    flex-direction: column;
+}

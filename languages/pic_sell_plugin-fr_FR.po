@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pic Sell\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-31 15:20+0200\n"
+"PO-Revision-Date: 2022-05-31 15:23+0200\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pic-sell.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-pic-sell-admin.php:72
+msgid "Default"
+msgstr "Défaut"
+
+#: admin/class-pic-sell-admin.php:73
+msgid "Title pack"
+msgstr "Titre du pack"
+
+#: admin/class-pic-sell-admin.php:84
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/class-pic-sell-admin.php:88
+msgid "No"
+msgstr "Non"
+
+#. Plugin Name of the plugin/theme
+#: admin/class-pic-sell-admin.php:140
+msgid "Pic Sell"
+msgstr "Pic Sell"
+
+#: admin/class-pic-sell-admin.php:141
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: admin/class-pic-sell-admin.php:142
+msgid "Settings"
+msgstr "Paramètres"
+
+#: admin/class-pic-sell-admin.php:143
+msgid "Orders"
+msgstr "Les commandes"
+
+#: admin/class-pic-sell-admin.php:152
+msgid "Builder"
+msgstr "Constructeur"
+
+#: admin/class-pic-sell-admin.php:153
+msgid "Config"
+msgstr "Configuration"
+
+#: admin/class-pic-sell-admin.php:154
+msgid "Template mail"
+msgstr "Template de mail"
+
+#: admin/class-pic-sell-admin.php:208
+msgid "Paypal seller email address"
+msgstr "Adresse e-mail du vendeur Paypal"
+
+#: admin/class-pic-sell-admin.php:213
+msgid "Transform the url to access the Paypal sandbox"
+msgstr "Transformez l'url pour accéder à la sandbox Paypal"
+
+#: admin/class-pic-sell-admin.php:230
+msgid "Active cron"
+msgstr "Activer un Cron"
+
+#: admin/class-pic-sell-admin.php:232
+msgid "Enable scheduled tasks (1 visitor must be on the site to run the script)."
+msgstr "Activer les tâches planifiées (1 visiteur doit être sur le site pour exécuter le script)."
+
+#: admin/class-pic-sell-admin.php:256
+msgid "Galery publish"
+msgstr "Galerie publiée"
+
+#: admin/class-pic-sell-admin.php:288
+#: admin/class-pic-sell-admin.php:338
+msgid "Send mail"
+msgstr "Envoi mail"
+
+#: admin/class-pic-sell-admin.php:290
+msgid "sends an email to the administrator when a gallery is published."
+msgstr "Envoie un e-mail à l'administrateur lorsqu'une galerie est publiée."
+
+#: admin/class-pic-sell-admin.php:307
+msgid "Remaining time"
+msgstr "Durée restant"
+
+#: admin/class-pic-sell-admin.php:340
+msgid "Send an email to the administrator when a gallery changes status."
+msgstr "Envoyez un e-mail à l'administrateur lorsqu'une galerie change de statut."
+
+#: admin/class-pic-sell-admin.php:361
+msgid "All commands"
+msgstr "Toutes les commandes"
+
+#: admin/class-pic-sell-admin.php:362
+msgid "Custommers"
+msgstr "Clients"
+
+#: admin/class-pic-sell-admin.php:386
+#: admin/class-pic-sell-admin.php:388
+msgid "There are no orders at the moment."
+msgstr "Il n'y a pas de commande pour le moment."
+
+#: admin/class-pic-sell-admin.php:391
+msgid "Lists orders."
+msgstr "Liste des commandes."
+
+#: admin/class-pic-sell-admin.php:397
+msgid "<b>all orders</b>."
+msgstr "<b>Toutes les commandes</b>."
+
+#: admin/class-pic-sell-admin.php:404
+msgid "<b>Order ID</b>"
+msgstr "<b>ID Commande</b>"
+
+#: admin/class-pic-sell-admin.php:405
+msgid "<b>Order number</b>"
+msgstr "<b>Numéro de commande</b>"
+
+#: admin/class-pic-sell-admin.php:406
+msgid "<b>Order date</b>"
+msgstr "<b>Date de la commande</b>"
+
+#: admin/class-pic-sell-admin.php:433
+msgid "<b>All customers</b>."
+msgstr "<b>Tous les clients</b>."
+
+#: admin/class-pic-sell-admin.php:540
+#: admin/class-pic-sell-admin.php:633
+#: admin/class-pic-sell-admin.php:778
+#: admin/class-pic-sell-admin.php:892
+msgid "Select media type"
+msgstr "Sélection du type de media"
+
+#: admin/class-pic-sell-admin.php:541
+#: admin/class-pic-sell-admin.php:634
+#: admin/class-pic-sell-admin.php:779
+#: admin/class-pic-sell-admin.php:893
+msgid "Image"
+msgstr "Image"
+
+#: admin/class-pic-sell-admin.php:542
+#: admin/class-pic-sell-admin.php:635
+#: admin/class-pic-sell-admin.php:780
+#: admin/class-pic-sell-admin.php:894
+msgid "Video"
+msgstr "Vidéo"
+
+#: admin/class-pic-sell-admin.php:557
+msgid "Error in type file"
+msgstr "Erreur dans le type de fichier"
+
+#: admin/class-pic-sell-admin.php:559
+#: admin/class-pic-sell-admin.php:639
+#: admin/class-pic-sell-admin.php:791
+#: admin/class-pic-sell-admin.php:898
+msgid "Add image"
+msgstr "Ajouter une image"
+
+#: admin/class-pic-sell-admin.php:560
+#: admin/class-pic-sell-admin.php:640
+msgid "Add video"
+msgstr "Ajouter une vidéo"
+
+#: admin/class-pic-sell-admin.php:562
+#: admin/class-pic-sell-admin.php:647
+#: admin/class-pic-sell-admin.php:794
+#: admin/class-pic-sell-admin.php:901
+msgid "Uploading progress"
+msgstr "Progression d'envoi"
+
+#: admin/class-pic-sell-admin.php:563
+#: admin/class-pic-sell-admin.php:648
+#: admin/class-pic-sell-admin.php:795
+#: admin/class-pic-sell-admin.php:902
+msgid "Upload finished"
+msgstr "Envoi terminé"
+
+#: admin/class-pic-sell-admin.php:574
+#: admin/class-pic-sell-admin.php:659
+#: admin/class-pic-sell-admin.php:822
+#: admin/class-pic-sell-admin.php:926
+msgid "Remove line"
+msgstr "Supprimer la ligne"
+
+#: admin/class-pic-sell-admin.php:575
+#: admin/class-pic-sell-admin.php:660
+#: admin/class-pic-sell-admin.php:823
+#: admin/class-pic-sell-admin.php:927
+msgid "Remove media"
+msgstr "Supprimer media"
+
+#: admin/class-pic-sell-admin.php:594
+msgid "Gallery"
+msgstr "Galerie"
+
+#: admin/class-pic-sell-admin.php:601
+msgid "Classement"
+msgstr "Classement"
+
+#: admin/class-pic-sell-admin.php:602
+msgid "Type media"
+msgstr "Type de media"
+
+#: admin/class-pic-sell-admin.php:603
+#: admin/class-pic-sell-admin.php:854
+msgid "Media"
+msgstr "Media"
+
+#: admin/class-pic-sell-admin.php:604
+#: admin/class-pic-sell-admin.php:850
+msgid "Title"
+msgstr "Titre"
+
+#: admin/class-pic-sell-admin.php:605
+#: admin/class-pic-sell-admin.php:855
+msgid "Description"
+msgstr "Description"
+
+#: admin/class-pic-sell-admin.php:606
+#: admin/class-pic-sell-admin.php:857
+msgid "Actions"
+msgstr "Actions"
+
+#: admin/class-pic-sell-admin.php:621
+msgid "Add field"
+msgstr "Ajouter une ligne"
+
+#: admin/class-pic-sell-admin.php:668
+msgid "Adress email"
+msgstr "Adresse email"
+
+#: admin/class-pic-sell-admin.php:682
+msgid "Add adress mail"
+msgstr "Ajouter une adresse mail"
+
+#: admin/class-pic-sell-admin.php:687
+msgid "Choice pack offers"
+msgstr "Choix d'un pack d'offre"
+
+#: admin/class-pic-sell-admin.php:699
+msgid "Select pack offers"
+msgstr "Sélectionner un pack d'offre"
+
+#: admin/class-pic-sell-admin.php:720
+msgid "Private space"
+msgstr "Espace privé"
+
+#: admin/class-pic-sell-admin.php:805
+#: admin/class-pic-sell-admin.php:911
+msgid "Select cat"
+msgstr "Sélection catégorie"
+
+#: admin/class-pic-sell-admin.php:817
+#: admin/class-pic-sell-admin.php:921
+msgid "Create catégory before"
+msgstr "Veuillez créer une catégorie"
+
+#: admin/class-pic-sell-admin.php:833
+msgid "Offers"
+msgstr "Offres"
+
+#: admin/class-pic-sell-admin.php:849
+msgid "Ranking"
+msgstr "Classement"
+
+#: admin/class-pic-sell-admin.php:851
+msgid "Quantity"
+msgstr "Quantité"
+
+#: admin/class-pic-sell-admin.php:852
+msgid "Price"
+msgstr "Prix"
+
+#: admin/class-pic-sell-admin.php:853
+msgid "offer Type"
+msgstr "Type d'offre"
+
+#: admin/class-pic-sell-admin.php:856
+msgid "Category"
+msgstr "Catégorie"
+
+#: admin/class-pic-sell-admin.php:868
+msgid "Add offer"
+msgstr "Ajouter une offre"
+
+#: admin/class-pic-sell-admin.php:936
+msgid "The offer"
+msgstr "L'offre"
+
+#: admin/class-pic-sell-admin.php:942
+msgid "Default:"
+msgstr "Défaut:"
+
+#: admin/class-pic-sell-admin.php:947
+msgid "Default pack"
+msgstr "Pack par défaut"
+
+#: admin/class-pic-sell-admin.php:1202
+msgid "Availability date"
+msgstr "Date de disponibilité"
+
+#: admin/class-pic-sell-admin.php:1213
+msgid "End date: "
+msgstr "Date de fin:"
+
+#: admin/class-pic-sell-admin.php:1216
+msgid "Gallery sends"
+msgstr "Envoie de galerie"
+
+#: admin/class-pic-sell-admin.php:1220
+msgid "Re-send"
+msgstr "Renvoyer"
+
+#: admin/class-pic-sell-admin.php:1222
+msgid "Last mail sent: "
+msgstr "Dernier mail envoyé le:"
+
+#: admin/class-pic-sell-admin.php:1224
+msgid "Send"
+msgstr "Envoyer"
+
+#: admin/class-pic-sell-admin.php:1293
+msgid "Email Send Succefully"
+msgstr "L'email a bien été envoyé"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/kimil14/pic-sell"
+msgstr "https://github.com/kimil14/pic-sell"
+
+#. Description of the plugin/theme
+msgid "Selling pictures easily."
+msgstr "Vendez vos images facilement."
+
+#. Author of the plugin/theme
+msgid "Benjamin CESTRE"
+msgstr "Benjamin CESTRE"
+
+#. Author URI of the plugin/theme
+msgid "https://portfolio.cestre.fr"
+msgstr "https://portfolio.cestre.fr"
+
+#~ msgid "Welcome to admin page of <b>Pic Sell</b>."
+#~ msgstr "Bienvenue sur la page d'administration de <b>Pic Sell</b>."
+
+#~ msgid "Modal avant confirmation"
+#~ msgstr "Confirmation avant publication"
